@@ -1,0 +1,49 @@
+body{ font-family:-roboto;}
+h1{
+    color: rgb(0, 0, 0);
+}
+h1 {
+    margin-left: 600px;
+  }
+ div {border-style: solid;} 
+ a:hover {
+    color: red;
+  }
+  body {
+    background-color: rgb(230, 237, 240);
+    opacity: 1;
+  }
+  div{
+      color: rgb(0, 0, 0);
+  }
+  .re{
+    padding-left: 80px;
+
+  }
+     .re{
+        
+            position: relative;
+            left: 855px;
+            border: 3px solid #070707;
+         
+     }
+     p{
+        margin-left: 600px;
+     }
+  body{
+    border-style: outset;
+  }
+  body{
+    border-style: inset;
+  }
+  body{
+      background-color: rgba(252, 18, 18, 0.918);
+  }
+  h2,ul{
+    margin-left: 600px;
+  }
+ div>a{     margin-left: 120px;   }
+.topnav{
+
+  display: inline;
+}
